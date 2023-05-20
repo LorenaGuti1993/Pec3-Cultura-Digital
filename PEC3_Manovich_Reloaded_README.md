@@ -1,8 +1,10 @@
 # Pec 3 - Cultura digital: Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
 
-## Uso la realidad aumentada es la medición de Google/Apple y traductor de Google en tiempo real
+# Uso la realidad aumentada es la medición de Google/Apple y traductor de Google en tiempo real
 
-# Explorando la hibridación de medios en la realidad aumentada de Google y Apple: Una perspectiva desde el software
+## Explorando la hibridación de medios en la realidad aumentada de Google y Apple: Una perspectiva desde el software
+
+### Introducción
 
 La realidad aumentada se ha convertido en una tecnología cada vez más popular y utilizada en la vida cotidiana está experimentando un enorme crecimiento en estos momentos. A medida que evoluciona, también lo hacen los medios que se utilizan para crear estas experiencias. En este artículo, analizaré la hibridación de medios en la realidad aumentada de Google y Apple, estas dos empresas están librando una batalla por el poder tecnológico, sobre todo en lo que respecta a la tecnología de RA y cómo esta técnica está siendo utilizada para mejorar la experiencia de los usuarios. Desde un punto de vista de software, veremos cómo se están combinando diferentes tipos de medios para crear experiencias más inmersivas y realistas.
 ¿Qué tipo de mezclas mediáticas podemos identificar en su conexión con la tecnología de realidad aumentada?
@@ -13,50 +15,50 @@ En este ensayo, exploraremos cómo Google y Apple combinan su tecnología para c
 La Realidad Aumentada (RA) es una técnica digital innovadora que permite que los usuarios interactúen con entornos virtuales en el mundo real. Esto se logra gracias a la presencia de sensores y sensores de visión, luces LED, tecnología de imágenes en movimiento, que permiten la creación de experiencias ricas y variadas. Los medidores de RA integrados en este espacio permiten la recopilación de grandes volúmenes de información precisa en tiempo real y aportan mucha valiosa información a los medios.
 La hibridación de medios en la realidad aumentada se refiere a la combinación de diferentes tipos de medios, como imágenes, videos, audio y texto, para crear una experiencia más inmersiva. Esto ha resultado en la hibridación de los medios, que son la combinación de información digital y analítica para permitir a los usuarios tener acceso a una relevancia más significativa y a un contenido personalizado.
 
-## GOOGLE
+### GOOGLE
 
 Google ha estado a la vanguardia de la realidad aumentada, añadiendo recursos para obtener el máximo provecho de esta tecnología. En primer lugar, sus herramientas de reconocimiento de objetos están laidas para darle al usuario información detallada sobre los objetos que ve en un ambiente de la vida real. También están trabajando en el desarrollo de experiencias inmersivas que le permitan al usuario experimentar virtualmente un conjunto de situaciones relacionadas con la realidad aumentada.
 
+![Google Lens](https://play-lh.googleusercontent.com/G5oF0mhpOcQzFTrU6TDUL0JoAjzRt38weiZKua7L61WVT1z3dPcE9gUu-W2EwtM9cZU)
+
 Uno de sus proyectos más notables es Google Lens, que utiliza la cámara del teléfono para identificar objetos y proporcionar información adicional sobre ellos. Google Lens utiliza la hibridación de medios para proporcionar información en forma de texto, imágenes y videos.
 
-## APPLE
+### APPLE
 
 Apple también ha estado trabajando en un par de proyectos relacionados con la realidad aumentada, incluyendo Apple Glasses, un par de gafas de realidad aumentada que se espera que sean lanzadas en los próximos años. Se espera que estas gafas utilicen la hibridación de medios para proporcionar una experiencia de realidad aumentada más inmersiva.
 
+![Apple Glasses](https://m-cdn.phonearena.com/images/hubs/1454-image/apple-ar-vr-headset.jpg)
+
 #  Traductor de Google en tiempo real 
 
-### Introduction
+## Exploración de la hibridación de medios en el traductor en tiempo real de Google
 
+### Introducción
 
+La tecnología ha hecho posible la comunicación entre personas que hablan diferentes idiomas con solo un clic. Gracias a Google Real-Time Translator, es posible traducir cualquier idioma en tiempo real. Además, con la función de intérprete, las conversaciones en diferentes idiomas se vuelven más fluidas y naturales. En este artículo, exploraré cómo la hibridación de medios en el traductor en tiempo real de Google ha revolucionado la forma en que las personas se comunican en todo el mundo.
 
-*This text will be italic*  
-_This will also be italic_
+### El futuro de la hibridación de medios en la traducción de idiomas.
 
-**This text will be bold**  
-__This will also be bold__
+La hibridación de medios en la traducción de idiomas es una tendencia importante que se espera que continúe en el futuro. Se espera que la tecnología de traducción de idiomas se vuelva más precisa y sofisticada, lo que permitirá una comunicación más fluida y natural entre personas que hablan diferentes idiomas. Además, se espera que la tecnología de traducción de idiomas se integre en una variedad de dispositivos y aplicaciones, lo que permitirá una comunicación más fácil y eficiente en todo el mundo.
 
-_You **can** combine them_
+### Entendiendo la hibridación de medios y su papel en el modo intérprete.
 
-## Lists
+La hibridación de medios se refiere a la combinación de diferentes medios de comunicación para crear una experiencia más completa. En el caso de Google Real-Time Translator, se combina la traducción de texto con la traducción de voz para crear una experiencia más natural y fluida. La hibridación de medios también permite que el intérprete detecte el idioma hablado automáticamente, lo que significa que no es necesario seleccionar el idioma manualmente.
 
-### Unordered
+### Ejemplos de aplicaciones reales del modo intérprete
 
-* Item 1
-* Item 2
-* Item 2a
-* Item 2b
+La función de intérprete en Google Real-Time Translator se utiliza en todo el mundo en una variedad de situaciones. Por ejemplo, se utiliza en aeropuertos, hoteles y restaurantes para ayudar a los turistas a comunicarse con los locales. También se utiliza en empresas que tienen clientes internacionales y en conferencias y reuniones internacionales. En resumen, la función de intérprete en Google Real-Time Translator es muy útil para cualquier persona que necesite comunicarse en diferentes idiomas.
 
-### Ordered
+### Conclusión y pensamientos finales sobre Google Real-Time Translator y el modo intérprete
 
-1. Item 1
-1. Item 2
-1. Item 3
-  1. Item 3a
-  1. Item 3b
+En resumen, la hibridación de medios en la traducción de idiomas ha revolucionado la forma en que las personas se comunican en todo el mundo. Google Real-Time Translator y el modo intérprete son herramientas muy útiles para personas que hablan diferentes idiomas y para empresas que tienen clientes internacionales. Sin embargo, es importante recordar que la herramienta no siempre es precisa y que tiene algunas limitaciones y desafíos. En general, creo que la tecnología de traducción de idiomas seguirá mejorando en el futuro y que se convertirá en una parte importante de la comunicación global.
 
 ## Images
 
 ![This is a alt text.](/image/sample.png "This is a sample image.")
+
+
+
 
 
 ## Links
