@@ -2,11 +2,11 @@
 
 # Uso la realidad aumentada es la medición de Google/Apple y traductor de Google en tiempo real
 
-## Explorando la hibridación de medios en la realidad aumentada de Google y Apple: Una perspectiva desde el software
+## Explorando la hibridación de medios en la realidad aumentada de Google y Apple: Una perspectiva desde el software.
 
 ### Introducción
 
-La realidad aumentada se ha convertido en una tecnología cada vez más conocida y utilizada en la vida cotidiana está en pleno crecimiento en estos momentos. A medida que evoluciona, también lo hacen los medios que se utilizan para crear estas experiencias. En este ensayo, exploraremos cómo Google y Apple combinan su tecnología para crear una realidad aumentada de vanguardia y reconoceremos los principios de software que subyacen a la integración de medios. Estas dos empresas están librando una batalla por el poder tecnológico, sobre todo en lo que respecta a la tecnología de RA y cómo está siendo utilizada para mejorar la experiencia de los usuarios que lo utilizan. Desde un punto de vista de software, veremos cómo se están combinando diferentes tipos de medios para crear experiencias más inmersivas y realistas.
+La realidad aumentada se ha convertido en una tecnología cada vez más conocida y utilizada en la vida cotidiana y está en pleno crecimiento en estos momentos. A medida que van surgiendo nuevas soluciones, también lo hacen los medios que se utilizan para crear estas experiencias. En este ensayo, explicaremos algunos de los aspectos de cada uno que son cómo Google y Apple combinan su tecnología para crear una realidad aumentada a la orden del dia y reconoceremos los principios de software que subyacen a la integración de medios. Estas dos empresas están librando una batalla por el poder tecnológico, sobre todo en lo que respecta a la tecnología de RA y cómo está siendo utilizada para mejorar la experiencia de los usuarios que lo utilizan. Desde un punto de vista de software, veremos cómo se están combinando diferentes tipos de medios para crear experiencias más inmersivas y realistas.
 ¿Qué tipo de mezclas mediáticas podemos identificar en su conexión con la tecnología de realidad aumentada?
 
 ### ¿Qué es la hibridación de medios en la realidad aumentada?
@@ -18,20 +18,19 @@ Esto ha resultado en la hibridación de los medios, que son la combinación de i
 
 Google ha estado a la vanguardia de la realidad aumentada, añadiendo recursos para obtener el máximo provecho de esta tecnología. En primer lugar, sus herramientas de reconocimiento de objetos están laidas para darle al usuario información detallada sobre los objetos que ve en un ambiente de la vida real. También están trabajando en el desarrollo de experiencias inmersivas que le permitan al usuario experimentar virtualmente un conjunto de situaciones relacionadas con la realidad aumentada.
 
-Uno de sus proyectos más destacados en esta compañia es Google Lens, que utiliza la cámara del teléfono para identificar objetos y proporcionar información adicional sobre ellos encontrando por internet todo lo relacionado. Google Lens utiliza la hibridación de medios para proporcionar información en forma de texto, imágenes y videos.
-
+Uno de sus proyectos más destacados en esta compañia es Google Lens, que utiliza la cámara del teléfono para identificar objetos y proporcionar información adicional sobre ellos encontrando por internet todo lo relacionado. Google Lens utiliza la hibridación de medios para proporcionar información en forma de texto, imágenes y videos. Ya que puede detectar texto y traducirlo. Imagenes en las que te puede detectar quienes aparecen y detectar si alguna de las personas la encontramos en internet.
 
 ![Google Lens](https://play-lh.googleusercontent.com/G5oF0mhpOcQzFTrU6TDUL0JoAjzRt38weiZKua7L61WVT1z3dPcE9gUu-W2EwtM9cZU)
 
 ### APPLE
 
-Apple también ha estado trabajando en un par de proyectos relacionados con la realidad aumentada, Apple Glasses, un par de gafas de realidad aumentada que se espera que sean lanzadas en los próximos años. Se espera que estas gafas utilicen la hibridación de medios para proporcionar una experiencia de realidad aumentada más inmersiva.
+Apple también ha estado trabajando en un par de proyectos relacionados con la realidad aumentada, Apple Glasses, un par de gafas de realidad aumentada que se espera que sean lanzadas en los próximos años. Se espera que estas gafas utilicen la hibridación de medios para proporcionar una experiencia de realidad aumentada más inmersiva. Contando con 14 cámaras que recrean nuestras expresiones en la que podremos realizar actividades como meditación, videojuegos y una forma completamente diferente a lo visto antes para ver películas o series.
 
 ![Apple Glasses](https://m-cdn.phonearena.com/images/hubs/1454-image/apple-ar-vr-headset.jpg)
 
 ### Conclusión y pensamientos finales sobre la realidad aumentada de Google y Apple
 
-Tanto Google como Apple están trabajando en proyectos de realidad aumentada que utilizan la hibridación de medios para mejorar la experiencia del usuario. La hibridación de medios en la realidad aumentada requiere una planificación cuidadosa y un diseño detallado. A medida que evoluciona la tecnología de realidad aumentada, se espera que la hibridación de medios se vuelva aún más emocionante y útil para una variedad de aplicaciones.
+Tanto Google como Apple están trabajando en proyectos de realidad aumentada que utilizan la hibridación de medios para mejorar la experiencia del usuario. La hibridación de medios requiere una planificación cuidadosa y un diseño detallado. A medida que evoluciona la tecnología de realidad aumentada, se espera que la hibridación de medios se vuelva aún más emocionante y útil para una variedad de aplicaciones.
 
 #  Traductor de Google en tiempo real 
 
@@ -59,9 +58,11 @@ En resumen, la hibridación de medios en la traducción de idiomas ha revolucion
 
 ## Blockquotes
 
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
->
->> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+> Para el artículo "Apple Glasses: características, fecha de lanzamiento y precio de las gafas de realidad aumentada de Apple" de Applesfera:
+Applesfera. (Fecha de publicación: 26 Abril 2023). Apple Glasses: características, fecha de lanzamiento y precio de las gafas de realidad aumentada de Apple. Recuperado de https://www.applesfera.com/nuevo/apple-glasses-caracteristicas-fecha-lanzamiento-precio
 
+> Para el artículo "Google eleva a casi magia la traducción instantánea en el Pixel 6: así funciona el nuevo Live Translate" de Xataka Android:
+Xataka Android. (Fecha de publicación: 20 Octubre 2021). Google eleva a casi magia la traducción instantánea en el Pixel 6: así funciona el nuevo Live Translate. Recuperado de
+>https://www.xatakandroid.com/sistema-operativo/google-eleva-a-casi-magia-traduccion-instantanea-pixel-6-asi-funciona-nuevo-live-translate
 
 You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
