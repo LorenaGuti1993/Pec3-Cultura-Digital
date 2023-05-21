@@ -56,7 +56,9 @@ La función de intérprete en Google Real-Time Translator se utiliza en todo el 
 
 En resumen, la hibridación de medios en la traducción de idiomas ha revolucionado la forma en que las personas se comunican en todo el mundo. Google Real-Time Translator y el modo intérprete son herramientas muy útiles para personas que hablan diferentes idiomas y para empresas que tienen clientes internacionales. Sin embargo, es importante recordar que la herramienta no siempre es precisa y que tiene algunas limitaciones y desafíos. En general, creo que la tecnología de traducción de idiomas seguirá mejorando en el futuro y que se convertirá en una parte importante de la comunicación global.
 
-## Blockquotes
+## Bibliografía y enlaces.
+
+## Artículos
 
 > Para el artículo "Apple Glasses: características, fecha de lanzamiento y precio de las gafas de realidad aumentada de Apple" de Applesfera:
 Applesfera. (Fecha de publicación: 26 Abril 2023). Apple Glasses: características, fecha de lanzamiento y precio de las gafas de realidad aumentada de Apple. Recuperado de https://www.applesfera.com/nuevo/apple-glasses-caracteristicas-fecha-lanzamiento-precio
@@ -64,5 +66,13 @@ Applesfera. (Fecha de publicación: 26 Abril 2023). Apple Glasses: característi
 > Para el artículo "Google eleva a casi magia la traducción instantánea en el Pixel 6: así funciona el nuevo Live Translate" de Xataka Android:
 Xataka Android. (Fecha de publicación: 20 Octubre 2021). Google eleva a casi magia la traducción instantánea en el Pixel 6: así funciona el nuevo Live Translate. Recuperado de
 >https://www.xatakandroid.com/sistema-operativo/google-eleva-a-casi-magia-traduccion-instantanea-pixel-6-asi-funciona-nuevo-live-translate
+
+## Imágenes
+
+> Para la imagen de Google Lens:
+Recuperado de [https://play-lh.googleusercontent.com/G5oF0mhpOcQzFTrU6TDUL0JoAjzRt38weiZKua7L61WVT1z3dPcE9gUu-W2EwtM9cZU]
+
+> Para la imagen de Apple Glasses:
+Recuperado de [https://m-cdn.phonearena.com/images/hubs/1454-image/apple-ar-vr-headset.jpg]
 
 You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
