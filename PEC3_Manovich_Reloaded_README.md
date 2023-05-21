@@ -11,14 +11,13 @@ La realidad aumentada (RA) es a dia de hoy una tecnología cada vez más conocid
 
 ### ¿Qué es la hibridación de medios en la realidad aumentada?
 
-La Realidad Aumentada (RA) es una técnica digital innovadora que permite que los usuarios interactúen con entornos virtuales en el mundo real. Esto se logra gracias a la presencia de sensores y sensores de visión, luces LED, tecnología de imágenes en movimiento, que permiten la creación de experiencias ricas y variadas. Los medidores de RA integrados en este espacio permiten la recopilación de grandes volúmenes de información precisa en tiempo real y aportan mucha valiosa información a los medios.
-Esto da resultado en la hibridación de los medios, que son la combinación de información digital y analítica para permitir a los usuarios tener acceso a una relevancia más significativa y a un contenido personalizado.
+La RA es una técnica digital innovadora que permite que los usuarios interactúen con entornos virtuales en el mundo real. Esto se logra gracias a la implantación de sensores y sensores de visión, luces LED, tecnología de imágenes en movimiento, que permiten la creación de experiencias únicas y variadas.Esto da resultado en la hibridación de los medios, que son la combinación de información digital y analítica para permitir a los usuarios tener acceso a una relevancia más significativa y a un contenido personalizado. Los medidores de RA integrados en este espacio permiten la recopilación de grandes cantidades de información exacta en tiempo real y aportan mucha información valiosa a los medios.
 
 ### GOOGLE
 
-Google ha estado a la orden del dia de la RA, añadiendo recursos para obtener el máximo provecho de esta tecnología. Para comenzar, sus herramientas de reconocimiento de objetos están laidas para darle al usuario información detallada sobre los objetos que ve en un ambiente de la vida real. También están trabajando en el desarrollo de experiencias inmersivas que le permitan al usuario experimentar virtualmente un conjunto de situaciones relacionadas con la RA.
+Google ha estado a la orden del dia de la RA, añadiendo recursos para obtener el máximo provecho de esta tecnología. Para comenzar, sus herramientas de reconocimiento de objetos están laidas para darle al usuario información detallada sobre los objetos que ve en un ambiente de la vida real. Están trabajando en el desarrollo de experiencias inmersivas que le permitan al usuario experimentar virtualmente un conjunto de situaciones relacionadas con la RA.
 
-Lo más destacados es Google Lens, con la cámara del teléfono puede identificar objetos y proporcionar información adicional sobre ellos encontrando por internet todo lo relacionado. Google Lens utiliza la hibridación de medios para proporcionar información en forma de texto, imágenes y videos.
+Lo más destacado es Google Lens, ya que con la cámara del teléfono utiliza la hibración de medios y puede identificar objetos y proporcionar información adicional sobre ellos encontrando información en forma de texto, imágenes y videos.
 
 ![Google Lens](https://play-lh.googleusercontent.com/G5oF0mhpOcQzFTrU6TDUL0JoAjzRt38weiZKua7L61WVT1z3dPcE9gUu-W2EwtM9cZU)
 
@@ -59,16 +58,16 @@ En resumen, la hibridación de medios en la traducción de idiomas ha revolucion
 
 ## Bibliografía y enlaces.
 
-## Artículos
+### Artículos
 
 > Para el artículo "Apple Glasses: características, fecha de lanzamiento y precio de las gafas de realidad aumentada de Apple" de Applesfera:
 Applesfera. (Fecha de publicación: 26 Abril 2023). Apple Glasses: características, fecha de lanzamiento y precio de las gafas de realidad aumentada de Apple. Recuperado de https://www.applesfera.com/nuevo/apple-glasses-caracteristicas-fecha-lanzamiento-precio
 
-> Para el artículo "Google eleva a casi magia la traducción instantánea en el Pixel 6: así funciona el nuevo Live Translate" de Xataka Android:
+> Para el artículo "Google eleva a casi magia la traducción instantánea en el Pixel 6: así funciona el nuevo Live Tra nslate" de Xataka Android:
 Xataka Android. (Fecha de publicación: 20 Octubre 2021). Google eleva a casi magia la traducción instantánea en el Pixel 6: así funciona el nuevo Live Translate. Recuperado de
 >https://www.xatakandroid.com/sistema-operativo/google-eleva-a-casi-magia-traduccion-instantanea-pixel-6-asi-funciona-nuevo-live-translate
 
-## Imágenes
+### Imágenes
 
 > Para la imagen de Google Lens:
 Recuperado de [https://play-lh.googleusercontent.com/G5oF0mhpOcQzFTrU6TDUL0JoAjzRt38weiZKua7L61WVT1z3dPcE9gUu-W2EwtM9cZU]
